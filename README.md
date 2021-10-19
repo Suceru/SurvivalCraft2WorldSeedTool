@@ -1,6 +1,6 @@
 # SurvivalCraft2WorldSeedTool
 You can convert the original seed into a unique seed number for the map, or you can multiply the seed number to get numerous seeds.
-## 使用
+## Usage
 The procedure for obtaining a seed number is as follows:
 
 ```
@@ -9,22 +9,22 @@ The procedure for obtaining a seed number is as follows:
 3. where the seed number is 49 and Value="49" is the value.
 ```
 
-打开种子工具之后，输入数字按回车选择相应功能。
+Enter the number and press Enter to pick the correct function after starting "WorldSeedTool.exe."
 
 ```
-功能
-1. 种子号转为种子
-2. 种子转为种子号
-3. 通过种子号显示多种种子的组合方式
-4. 帮助
+Function 
+1: Seed number are converted into Seeds.
+2. Seeds are converted into Seed number.
+3. Demonstrate how to mix several Seed based on their Seed number.
+4. Help.
 ```
-## 项目
-此项目使用了Golang作为语言进行编译（推荐使用Goland进行管理）。
+## Project
+The compilation language for this project is Golang (Goland is recommended for management).
 ## Attribution
 - Code
     - Suceru
-## 额外
-当git拉取失败时，可以试一下这段命令。 
+## Additional
+Try this command if a git pull fails.
 ```
 git config --global http.sslVerify "false"
 git config --global --unset http.proxy
