@@ -27,6 +27,8 @@
 当git拉取失败时，可以试一下这段命令。 
 ```
 git config --global http.sslVerify "false"
+git config --global --unset http.proxy
+git config --global --unset https.proxy
 ```
 ## 许可
 此项目使用了GPL作为许可。
