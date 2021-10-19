@@ -31,8 +31,9 @@
 [HI_IN]:README.hi_in.md
 [RU]:README.ru.md
 
-
 将原本种子变为地图唯一的种子号，也可以通过种子号计算出多个种子。
+## Download
+[生存战争种子工具](https://github.com/Suceru/SurvivalCraft2WorldSeedTool/releases)
 ## 使用
 种子号获取方式
 
