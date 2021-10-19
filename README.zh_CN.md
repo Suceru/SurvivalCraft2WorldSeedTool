@@ -1,4 +1,37 @@
 # 生存战争种子工具
+## 语言
+:globe_with_meridians:
+**简体中文**,
+[English][EN],
+[Bahasa Indonesia][ID],
+[Català][CA],
+[Deutsch][DE],
+[Español][ES],
+[Français][FR],
+[Italiano][IT],
+[Português][PT_BR],
+[Русский][RU],
+[العربية][AR],
+[हिंदी][HI_IN],
+[正體中文][ZH_TW],
+[한국어][KO_KR]
+
+[AR]:README.ar.md
+[ID]:README.id.md
+[CA]:README.ca.md
+[DE]:README.de.md
+[EN]:README.md
+[ES]:README.es.md
+[IT]:README.it.md
+[FR]:README.fr.md
+[PT_BR]:README.pt_br.md
+[ZH_TW]:README.zh_tw.md
+[ZH_CN]:README.zh_CN.md
+[KO_KR]:README.ko_kr.md
+[HI_IN]:README.hi_in.md
+[RU]:README.ru.md
+
+
 将原本种子变为地图唯一的种子号，也可以通过种子号计算出多个种子。
 ## 使用
 种子号获取方式
