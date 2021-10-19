@@ -1,12 +1,12 @@
-# 生存战争种子工具
-将原本种子变为地图唯一的种子号，也可以通过种子号计算出多个种子。
+# SurvivalCraft2WorldSeedTool
+You can convert the original seed into a unique seed number for the map, or you can multiply the seed number to get numerous seeds.
 ## 使用
-种子号获取方式
+The procedure for obtaining a seed number is as follows:
 
 ```
-1. 从.scworld文件解压缩包或者找到“LocalState\Worlds\”中相应的文件夹。
-2. 打开Project.xml，找到<Value Name="WorldSeed" Type="int" Value="49" />。
-3. 其中Value="49"就是种子号。
+1. Unpack the.scworld file or look in the "LocalState\Worlds\" folder for the relevant folder.
+2. Locate <Value Name="WorldSeed" Type="int" Value="49" /> in Project.xml.
+3. where the seed number is 49 and Value="49" is the value.
 ```
 
 打开种子工具之后，输入数字按回车选择相应功能。
@@ -20,8 +20,8 @@
 ```
 ## 项目
 此项目使用了Golang作为语言进行编译（推荐使用Goland进行管理）。
-## 贡献
-- 代码
+## Attribution
+- Code
     - Suceru
 ## 额外
 当git拉取失败时，可以试一下这段命令。 
@@ -30,5 +30,5 @@ git config --global http.sslVerify "false"
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
-## 许可
-此项目使用了GPL作为许可。
+## License
+The GPL is used to license this project.
