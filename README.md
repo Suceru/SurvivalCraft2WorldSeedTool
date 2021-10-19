@@ -28,7 +28,7 @@
 [JA]:README.ja.md
 [PT_BR]:README.pt_br.md
 [ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
+[ZH_CN]:README.zh_CN.md
 [KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
 [RU]:README.ru.md
