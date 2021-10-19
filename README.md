@@ -2,10 +2,10 @@
 ## Language
 :globe_with_meridians:
 [简体中文][ZH_CN],
+**English**,
 [Bahasa Indonesia][ID],
 [Català][CA],
 [Deutsch][DE],
-**English**,
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
