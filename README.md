@@ -34,6 +34,8 @@
 [RU]:README.ru.md
 
 You can convert the original seed into a unique seed number for the map, or you can multiply the seed number to get numerous seeds.
+## Download
+[SurvivalCraft2WorldSeedTool](https://github.com/Suceru/SurvivalCraft2WorldSeedTool/releases)
 ## Usage
 The procedure for obtaining a seed number is as follows:
 
