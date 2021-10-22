@@ -33,7 +33,7 @@
 
 将原本种子变为地图唯一的种子号，也可以通过种子号计算出多个种子。
 ## Download
-[生存战争种子工具](https://github.com/Suceru/SurvivalCraft2WorldSeedTool/releases)
+[![Downloads](https://img.shields.io/badge/2.21%20MB-Download-brightgreen)](https://github.com/Suceru/SurvivalCraft2WorldSeedTool/releases/latest)
 ## 使用
 种子号获取方式
 
